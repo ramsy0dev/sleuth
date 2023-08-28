@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "sleuth"
+version = "0.1.0"
+description = "Open source OSINT tool to hunt down IPs and gather info about them"
+authors = ["ramsy0dev"]
+license = "GPL V3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+typer = "^0.9.0"
+rich = "^13.5.2"
+ping3 = "^4.0.4"
+python3-nmap = "^1.6.0"
+pyyaml = "^6.0.1"
+sqlalchemy = "^2.0.20"
+psycopg2 = "^2.9.7"
+random-user-agent = "^1.0.1"
+requests = "^2.31.0"
+
+[tool.poetry.scripts]
+sleuth = "sleuth:__main__.cli"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
