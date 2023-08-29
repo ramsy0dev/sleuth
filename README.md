@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ramsy0dev/sleuth/blob/957c88186b3e3e1cac164d9488438f0b61de9546/assets/sleuth.png?raw=true" width="300"/>
+<img src="https://github.com/ramsy0dev/sleuth/blob/957c88186b3e3e1cac164d9488438f0b61de9546/assets/sleuth.png?raw=true" width="400"/>
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub contributors](https://img.shields.io/github/contributors/ramsy0dev/sleuth?style=for-the-badge)
