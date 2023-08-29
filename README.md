@@ -14,7 +14,6 @@
 * [What is Sleuth?](#what-is-sleuth)
 * [Prequirements](#prequirements)
 * [Installation](#installation)
-    * [Pypi](#pypi)
     * [From source](#from-source)
 * [Setup](#setup)
 * [Help](#help)
@@ -30,12 +29,6 @@ Sleuth is an open source OSINT tool for tracking down IP addresses and gathering
 Before installing Sleuth, make sure you have nmap installed, along with Python version 3.11 or higher. Additionally, you need to create an account on [vpnapi.io](https://vpnapi.io) to obtain an API Key, as you will need it during Sleuth setup.
 
 # Installation
-
-* ## Pypi
-
-```
-pip install sleuth
-```
 
 * ## From source
 
