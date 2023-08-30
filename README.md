@@ -5,14 +5,13 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub contributors](https://img.shields.io/github/contributors/ramsy0dev/sleuth?style=for-the-badge)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/ramsy0dev/sleuth?style=for-the-badge)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/sleuth?style=for-the-badge)
 
 </div>
 
 # Table of content
 
 * [What is Sleuth?](#what-is-sleuth)
-* [Prequirements](#prequirements)
+* [Prerequisites](#prerequisites)
 * [Installation](#installation)
     * [From source](#from-source)
 * [Setup](#setup)
@@ -70,17 +69,17 @@ You will be prompted with questions to fill in. The first is your vpnapi.io API 
  Usage: python -m sleuth [OPTIONS] COMMAND [ARGS]...
 
 ╭─ Options ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│ --install-completion        [bash|zsh|fish|powershell|pwsh]  Install completion for the specified shell. [default: None]                   │
-│ --show-completion           [bash|zsh|fish|powershell|pwsh]  Show completion for the specified shell, to copy it or customize the          │
-│                                                              installation.                                                                 │
-│                                                              [default: None]                                                               │
-│ --help                                                       Show this message and exit.                                                   │
+│ --install-completion        [bash|zsh|fish|powershell|pwsh]  Install completion for the specified shell. [default: None]                     │
+│ --show-completion           [bash|zsh|fish|powershell|pwsh]  Show completion for the specified shell, to copy it or customize the            │
+│                                                              installation.                                                                   │
+│                                                              [default: None]                                                                 │
+│ --help                                                       Show this message and exit.                                                     │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ╭─ Commands ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│ search              Search for a target IP in the database                                                                                 │
-│ setup               Setup Sleuth's database to use                                                                                         │
-│ track               Tracks a given IP address and returns info about it                                                                    │
-│ version             Sleuth's current version                                                                                               │
+│ search              Search for a target IP in the database                                                                                   │
+│ setup               Setup Sleuth's database to use                                                                                           │
+│ track               Tracks a given IP address and returns info about it                                                                      │
+│ version             Sleuth's current version                                                                                                 │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
