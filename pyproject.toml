@@ -14,7 +14,7 @@ ping3 = "^4.0.4"
 python3-nmap = "^1.6.0"
 pyyaml = "^6.0.1"
 sqlalchemy = "^2.0.20"
-psycopg2 = "^2.9.7"
+psycopg2-binary = "^2.9.7"
 random-user-agent = "^1.0.1"
 requests = "^2.31.0"
 
