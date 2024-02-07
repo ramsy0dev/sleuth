@@ -8,7 +8,7 @@ import os
 # Sleuth info
 PACKAGE_NAME =  "sleuth"
 DESCRIPTION  =  "open-source OSINT tool to track down IPs and gather info about them."
-VERSION      =  "0.1.0"
+VERSION      =  "0.1.1"
 AUTHOR       =  "ramsy0dev"
 GITHUB       =  "https://github.com/ramsy0dev/sleuth"
 
